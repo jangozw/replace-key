@@ -8,10 +8,14 @@
 
 
 
-linux:
+linux 编译生成二进制文件 : ```replace-key```
+
 ```bash
 make build
 ```
+
+
+编译其他平台的见```Makefile``
 
 
 # 使用demo:
